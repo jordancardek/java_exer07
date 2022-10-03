@@ -11,6 +11,6 @@ public class App {
 
         double dobroArea = (lado * lado) * 2;
 
-        System.out.println("O dobro da área do quadrado é: "+dobroArea);   
+        System.out.println("O dobro da área desse quadrado e: "+dobroArea);   
     }
 }
